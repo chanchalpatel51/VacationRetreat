@@ -19,7 +19,7 @@ import tImg3 from "./assets/airplane-around-earth.png"
 import GuestSection from "./components/Guests/Guests.jsx";
 import "./App.css"
 import ServiceSection from "./components/Services/Services.jsx";
-import AboutSection from "./components/About/about.jsx";
+import AboutSection from "./components/About/About.jsx";
 import OfferingSection from "./components/Offers/Offers.jsx";
 import ChooseSection from "./components/Choose/Choose.jsx";
 import ReviewSection from "./components/Reviews/Reviews.jsx";
